@@ -1,0 +1,1 @@
+console.log("Lab 03 - NodeJS and GitHub Flow setup successful!");
