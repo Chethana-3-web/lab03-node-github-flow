@@ -1,0 +1,19 @@
+{
+  "name": "lab03-node-github-flow",
+  "version": "1.0.0",
+  "description": "Lab 03 Node setup",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Chethana-3-web/lab03-node-github-flow.git"
+  },
+  "author": "Chethana",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Chethana-3-web/lab03-node-github-flow/issues"
+  },
+  "homepage": "https://github.com/Chethana-3-web/lab03-node-github-flow#readme"
+}
